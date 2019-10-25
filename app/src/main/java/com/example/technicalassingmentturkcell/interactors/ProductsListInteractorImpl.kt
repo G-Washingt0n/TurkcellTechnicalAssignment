@@ -4,7 +4,6 @@ import android.util.Log
 import androidx.lifecycle.MediatorLiveData
 import androidx.lifecycle.Observer
 import com.example.technicalassingmentturkcell.AppExecutors
-import com.example.technicalassingmentturkcell.glide.DispatchingProgressManager
 import com.example.technicalassingmentturkcell.model.room.ProductsDao
 import com.example.technicalassingmentturkcell.network.models.Product
 import com.example.technicalassingmentturkcell.network.responses.ApiResponse
